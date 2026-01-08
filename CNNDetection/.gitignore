@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets
+code_dataset/
+dataset/
+
+# Checkpoints / logs
+checkpoints/
+pretrained/
+
+# OS files
+.DS_Store
+Thumbs.db
